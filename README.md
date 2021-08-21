@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Refanz
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, C#, and Unity
-- 💞️ I’m looking to collaborate on Build A Game
+- 💞️ I’m looking to collaborate on Making Game
 - 📫 How to reach me refandasuryasaputra@gmail.com
 
 <!---
