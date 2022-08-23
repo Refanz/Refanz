@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Refanz
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, C#, Kotlin, and Unity
+- 🌱 I’m currently learning Java, C#, Laravel, Kotlin, and Unity
 - 📫 How to reach me refandasuryasaputra@gmail.com
 
 <!---
